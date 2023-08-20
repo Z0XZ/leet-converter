@@ -2,7 +2,7 @@
 
 Du skal nå skrive et program som tar en tekst som input og lager om teksten til 1337-tekst. Et eksempel på hvordan programmet kan fungere ser du under:
 
-![Alt Text](assets/1337-program.gif)
+![Alt Text](1337-program.gif)
 
   ## 1. Input
 Lag deg en variabel som skal ta en input fra brukeren. Variabelen skal ha et fornuftig navn, f.eks.:
@@ -38,13 +38,9 @@ Du skal nå fortsette med å bruke .replace-metoden slik at du fåt byttet ut al
 
 ## 3. Printing
 Når du har laget et program som konverterer alle symbolene i tabellen over til 1337-symboler skal programmet skrive ut den nye teksten. Prøv å bruke f-strenger slik at programmet forklarer hva som kommer ut, f.eks. "1337-tekst:" slik som i eksempelprogrammet under.
-![Alt Text](assets/1337-program.gif)
+![Alt Text](1337-program.gif)
 
 Sjekk at programmet stemmer med noen eksempeltekster. Ordet "tall" skal eksempelvis bli oversatt til "7411", og "LEET" bli til "1337".
 
 Oversetter programmet også de store bokstavene?
 
-Når du er fornøyd med programmet kjører du testene i menyen til venstre og ser om programmet er godkjent. Om du ikke får godkjent på testen, forsøk å rette opp i programmet slik at det blir riktig.
-
-For å kjøre en test kan du navigere deg hit i menyen:
-![Alt Text](assets/Tests.png)
