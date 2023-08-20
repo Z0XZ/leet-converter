@@ -24,7 +24,7 @@ oversatt_tekst = oversatt_tekst.replace("t", "7")
 ```
 I eksempelet over byttes alle t-ene ut med 7-tall. Teksten "tall" ville altså blitt til "7all". For å sjekke at teksten faktisk har blitt byttet ut kan man bruke print-funksjonen til å skrive ut verdien til variabelen.
 
-Du skal nå fortsette med å bruke .replace-metoden slik at du fåt byttet ut alle bokstavene som skal byttes ut. En oversikt over bokstavene som skal byttes ut med tall finner du i tabellen under:
+Du skal nå fortsette med å bruke .replace-metoden slik at du får byttet ut alle bokstavene som skal byttes ut. En oversikt over bokstavene som skal byttes ut med tall finner du i tabellen under:
 
 |Originalsymbol |1337-symbol |
 |:---:|:---:|
